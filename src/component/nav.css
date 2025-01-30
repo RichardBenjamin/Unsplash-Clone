@@ -1,0 +1,9 @@
+.coll:hover{
+    color:black;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.point:hover{
+    cursor: pointer;
+}
