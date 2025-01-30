@@ -1,19 +1,5 @@
 # Unsplash-Clone
-**Links for refrence:**
-Frontend Repo Link :
-https://github.com/nikeshkumarsingh/unspashclone.git
 
-Backend Repo Link :
-https://github.com/nikeshkumarsingh/My-auth-server.git
-
-Frontend deployed link:
-https://unsplash-clone-red.vercel.app/
-
-Backend deployed link:
-https://unsplash-with-backend.herokuapp.com/
-
-Blog link:
-https://medium.com/@nikdoc1947/unsplash-clone-548258286b60
 # Technology I used :
 # In Frontend:
 1. React js
@@ -24,7 +10,7 @@ https://medium.com/@nikdoc1947/unsplash-clone-548258286b60
 
 # In Backend:
 1. Mongo DB
-2. heroku
+2. Vercel
 3. Node JS
 4. Express JS
 
